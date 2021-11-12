@@ -16,7 +16,7 @@ export default function Home() {
      Welcome to <a href='https://nextjs.org'>Next.js!</a>
     </h1>
 
-    <p className={styles.description}>Next Course</p>
+    <p className={styles.description}>Next Course.</p>
 
     <div className={styles.grid}>
      <a href='https://nextjs.org/docs' className={styles.card}>
